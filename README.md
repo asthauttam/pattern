@@ -1,2 +1,4 @@
 # pattern
-my first pattern repo
+my first pattern repo 
+<br>
+printing the pattern 
